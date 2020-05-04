@@ -9,8 +9,11 @@ While working from home I need to use various different programs and online logi
 ##What does it need to do:
 
 **1)** Start up and login to a VPN in order to access company files (in this case Cisco AnyConnect)
+
 **2)** Start up company webpage, log in and navigate to the tender page (using Chrome webdriver)
+
 **3)** Open a specific spreadsheet located on the company server, accessible through VPN (Excel)
+
 **4)** Create a new local folder at a specific location on my PC, ready to be filled with files regarding a new tender
 
 ##Tools used:
