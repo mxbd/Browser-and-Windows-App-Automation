@@ -32,4 +32,4 @@ Selenium with chrome webdriver
 
 HOW TO:
 
-Type this script in Notepad and save as FILENAME.vbs, replace PASSWORD with your password and if neccesary replace the path to the VPN Client exe. The sleep times may need adjusting depending on your internet connection speed. 
+Type the Cisco_Start script in Notepad and save as FILENAME.vbs, replace PASSWORD with your password and if neccesary replace the path to the VPN Client exe. The sleep times may need adjusting depending on your internet connection speed. 
