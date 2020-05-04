@@ -19,7 +19,9 @@ While working from home I need to use various different programs and online logi
 ## Tools used:
 
 Python
+
 PyCharm IDE
+
 Selenium with chrome webdriver
 
 
